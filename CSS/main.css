@@ -125,14 +125,17 @@ body {
         background: transparent;
         border-radius: 50%;
         cursor: pointer;
-    
+            
     }
     .slick-dots {
         margin: 0 auto;
         width: 50%;
         position: absolute;
         left: 45%;
-        top: 650px;
+        top: 405px;
+    }
+    .slick-dots li button:hover {
+        background-color: #00bac6;
     }
     
     li.slick-active button {
