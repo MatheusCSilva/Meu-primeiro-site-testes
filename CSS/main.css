@@ -76,9 +76,9 @@ body {
         background-image: url(../img/Search.png);
         background-repeat: no-repeat;
         height: 36px;
-        padding: 12px;
+        padding: 10px;
         width: 190px;
-        margin-top: 10px;
+        margin-top: 5px;
         background-position: 96%;
         border: 1px solid #d6d6d6;
     }
@@ -177,17 +177,18 @@ body {
         height: auto;
     }
     .bloco-imagem {
-        height: 300px;
-        border: 1px solid #c5c5c5;
+        height: 325px;
+        border: 1px solid rgb(0, 0, 0);
         padding-top: 15px;
         padding-bottom: 15px;
         margin-left: 10px;
     }
     .bloco-imagem b, p {
         text-align: left;
+
     }
     .bloco-texto {
-        margin-top: 3em;
+        margin-top: 2em;
     }
     
     h3 {
