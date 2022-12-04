@@ -8,7 +8,7 @@ body {
     }
     .menu-principal {
     width: 100%;
-    background-color: #252323;
+    background-color: #360402;
     height: 60px;
     }
     main, .content {
@@ -151,7 +151,7 @@ body {
         text-align: center;
     }
     .texto-destaque strong {
-        color: #0c0b0b;
+        color: #4b0705;
     }
     .texto-destaque h1 {
         text-transform: uppercase;
@@ -303,4 +303,8 @@ body {
     .phone:before {
         background-image: url(../img/telefone.png);
     }
-    
+
+    .texto-destaque h2 {
+        color: #4b0705
+        ;
+    }
